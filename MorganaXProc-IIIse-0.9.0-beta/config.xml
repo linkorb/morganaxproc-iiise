@@ -1,0 +1,10 @@
+<!-- This is just a demo on how to do it -->
+<morgana-config xmlns="http://www.xml-project.com/morganaxproc">
+	<!-- Relative pathes are resolved by base-uri of this document -->
+	
+	<path_to_iso_skeleton_schematron_1>ISO_SKELETON_SCHEMATRON_1</path_to_iso_skeleton_schematron_1>
+	
+	<path_to_iso_skeleton_schematron_2>ISO_SKELETON_SCHEMATRON_2</path_to_iso_skeleton_schematron_2>	
+	
+	<XSLTValidationMode>STRICT</XSLTValidationMode>
+</morgana-config>

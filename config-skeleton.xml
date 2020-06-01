@@ -1,0 +1,6 @@
+<morgana-config xmlns="http://www.xml-project.com/morganaxproc">
+    <path_to_iso_skeleton_schematron_1>stf-master/iso-schematron-xslt1</path_to_iso_skeleton_schematron_1>
+    <path_to_iso_skeleton_schematron_2>stf-master/iso-schematron-xslt2</path_to_iso_skeleton_schematron_2>
+    <XSLTValidationMode>STRICT</XSLTValidationMode>
+    <schematron-connector>Skeleton</schematron-connector>
+</morgana-config>

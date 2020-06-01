@@ -1,0 +1,14 @@
+<contacts>
+    <contact id="a">
+        <firstname>Alice</firstname>
+        <email>alice@mailinator.com</email>
+    </contact>
+    <contact id="b">
+        <firstname>Bob</firstname>
+        <email>bob@mailinator.com</email>
+    </contact>
+    <contact id="c">
+        <firstname>Carol</firstname>
+        <email>carol@mailinator.com</email>
+    </contact>
+</contacts>

@@ -1,0 +1,6 @@
+<morgana-config xmlns="http://www.xml-project.com/morganaxproc">
+    <path_to_SchXSLT_1>schxslt-1.4.5/src/main/resources/xslt/1.0</path_to_SchXSLT_1>
+    <path_to_SchXSLT_2>schxslt-1.4.5/src/main/resources/xslt/2.0</path_to_SchXSLT_2>
+    <XSLTValidationMode>STRICT</XSLTValidationMode>
+    <schematron-connector>SchXSLT</schematron-connector>
+</morgana-config>
